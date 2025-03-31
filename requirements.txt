@@ -1,5 +1,6 @@
-pytest
-openpyxl
-pytest-html
-requests
-selenium
+selenium==4.1.0
+pytest==7.1.2
+pytest-html==3.1.1
+allure-pytest==2.9.45
+webdriver-manager==3.5.4
+python-dotenv==0.19.2
