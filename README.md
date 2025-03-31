@@ -67,27 +67,26 @@ The automation testing covers the following areas:
 
 ## Framework Details
 The **automation framework** is built using the following tools and technologies:
-selenium-framework/
--├── config/
--│   ├── config.ini
--│   └── pytest.ini
--├── logs/
--├── pages/
--│   ├── base_page.py
--│   ├── login_page.py
--│   ├── dashboard_page.py
--│   └── form_page.py
--├── tests/
--│   ├── test_login.py
--│   ├── test_navigation.py
--│   └── test_form_submission.py
--├── utilities/
--│   ├── driver_manager.py
--│   ├── logger.py
--│   └── report_generator.py
--├── requirements.txt
- -├── README.md
- -└── .gitignore
+📁 Project Structure
+📁 TestAutomationFramework
+├── 📁 tests (Test cases)
+│ ├── test_login.py
+│ ├── test_form_submission.py
+│ ├── test_navigation.py
+├── 📁 pages (Page Object Model classes)
+│ ├── login_page.py
+│ ├── form_page.py
+│ ├── navigation_page.py
+├── 📁 config (Configuration files)
+│ ├── config.json
+├── 📁 utils (Logging, reporting, utilities)
+│ ├── logger.py
+│ ├── report_generator.py
+├── 📁 drivers (WebDriver executables)
+├── 📁 reports (Generated test reports)
+├── requirements.txt (Dependencies)
+├── conftest.py (Pytest fixtures & setup)
+├── README.md
 
 ---
 
