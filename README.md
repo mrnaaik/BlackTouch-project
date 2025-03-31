@@ -66,7 +66,7 @@ The automation testing covers the following areas:
 ---
 
 ## Framework Details
-The automation framework is built using the following tools and technologies:
+The **automation framework** is built using the following tools and technologies:
 selenium-framework/
 -├── config/
 -│   ├── config.ini
@@ -86,8 +86,8 @@ selenium-framework/
 -│   ├── logger.py
 -│   └── report_generator.py
 -├── requirements.txt
--├── README.md
--└── .gitignore
+ -├── README.md
+ -└── .gitignore
 
 ---
 
