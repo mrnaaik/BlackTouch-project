@@ -1,4 +1,4 @@
-# README: Automation Testing for K12 Education Application
+# Automation Testing for K12 Education Application
 
 ## Overview
 This repository contains the automation testing framework and test cases for the **K12 Education Application**. The purpose of this project is to ensure the quality, reliability, and performance of the application through automated testing. The framework is designed to support functional, regression, and performance testing.
