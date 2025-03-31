@@ -116,8 +116,10 @@ We welcome contributions to improve the automation framework. Follow these steps
 
 ## OUTPUT SCREENSHOTS
 
+![image](https://github.com/user-attachments/assets/74e60df8-3be2-4444-aee1-2dbd6ab44422)
 
 ![image](https://github.com/user-attachments/assets/ab3ff28b-717c-47bc-ba1e-c623ab81ab0b)
+
 ![image](https://github.com/user-attachments/assets/773906a1-5b86-432f-aada-8842179b6d78)
 
 
