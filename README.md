@@ -81,7 +81,7 @@ The **automation framework** is built using the following tools and technologies
   -  ├── config.json
 - ├── 📁 utils (Logging, reporting, utilities)
   - ├── logger.py
-  │ ├── report_generator.py
+  - ├── report_generator.py
 - ├── 📁 drivers (WebDriver executables)
 - ├── 📁 reports (Generated test reports)
 - ├── requirements.txt (Dependencies)
@@ -146,6 +146,15 @@ To execute the test suite, use the following commands:
 
 ---
 
+## Adding New Tests
+Create a new page object in pages/ if needed
+
+Add test file in tests/ following naming convention test_*.py
+
+Use the existing utilities for logging, reporting and driver management
+
+---
+
 ## Contributing
 We welcome contributions to improve the automation framework. Follow these steps:
 1. Fork the repository.
@@ -154,7 +163,7 @@ We welcome contributions to improve the automation framework. Follow these steps
 
 ---
 
-## OUTPUT SCREENSHOTS
+## Sample output or screenshots of the test reports.
 
 ![image](https://github.com/user-attachments/assets/74e60df8-3be2-4444-aee1-2dbd6ab44422)
 
