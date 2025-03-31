@@ -69,10 +69,9 @@ The automation testing covers the following areas:
 The **automation framework** is built using the following tools and technologies:
 📁 Project Structure
 📁 TestAutomationFramework
-.
-├── 📁 tests (Test cases)
-│ ├── test_login.py
-│ ├── test_form_submission.py
+-├── 📁 tests (Test cases)
+-│ ├── test_login.py
+-│ ├── test_form_submission.py
 │ ├── test_navigation.py
 ├── 📁 pages (Page Object Model classes)
 │ ├── login_page.py
