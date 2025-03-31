@@ -5,6 +5,33 @@ This repository contains the automation testing framework and test cases for the
 
 ---
 
+## Selenium Test Automation Framework
+
+A robust, maintainable, and scalable test automation framework using Python and Selenium.
+
+## Features
+
+- Page Object Model (POM) design pattern
+- Cross-browser testing support (Microsoft Edge, Chrome & Firefox)
+- Comprehensive logging
+- HTML and Allure test reporting
+- Configuration management
+- Extensible architecture
+
+## Prerequisites
+
+- Python 3.8+
+- pip
+- Allure commandline tool (for report generation)
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/selenium-framework.git
+   cd selenium-framework
+
+---
 ## Table of Contents
 1. [Application Overview](#application-overview)
 2. [Testing Scope](#testing-scope)
