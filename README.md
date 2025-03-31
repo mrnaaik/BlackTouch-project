@@ -19,10 +19,13 @@ A robust, maintainable, and scalable test automation framework using Python and 
 - Extensible architecture
 
 ## Prerequisites
-
-- Python 3.8+
-- pip
-- Allure commandline tool (for report generation)
+Before setting up the framework, ensure the following are installed:
+- selenium==4.1.0
+- pytest==7.1.2
+- pytest-html==3.1.1
+- allure-pytest==2.9.45
+- webdriver-manager==3.5.4
+- python-dotenv==0.19.2
 
 ## Setup
 
@@ -90,13 +93,6 @@ The **automation framework** is built using the following tools and technologies
 
 ---
 
-## Prerequisites
-Before setting up the framework, ensure the following are installed:
-1. **Python 3.8 or higher**
-2. **Pip** (Python package manager)
-3. **Browser Drivers** (e.g., ChromeDriver for Chrome)
-4. **Git** (for version control)
-5. **Allure CLI** (if using Allure for reporting)
 
 ---
 
