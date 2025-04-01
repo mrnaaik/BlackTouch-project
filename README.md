@@ -169,6 +169,10 @@ We welcome contributions to improve the automation framework. Follow these steps
 
 
 ---
+##Test-Case-Template
+[Test-Case-Template.xlsx](https://github.com/user-attachments/files/19544968/Test-Case-Template.xlsx)
 
+
+---
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
